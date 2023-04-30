@@ -1,1 +1,2 @@
-[Regression]([https://github.com/Ying-Xuan/Machine-Learning/files/11361395/Regression.pptx](https://github.com/Ying-Xuan/Machine-Learning/files/11361415/Regression.pdf))
+
+[DRegression.pdf](https://github.com/Ying-Xuan/Machine-Learning/files/11361417/Regression.pdf)
